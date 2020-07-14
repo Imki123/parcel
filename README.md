@@ -2,7 +2,7 @@
 ***Simple web app using parcel***
 
 ## Toggle circle and Spinner  
-![toggle and spinner](https://user-images.githubusercontent.com/43270441/87389286-6e79a200-c5e1-11ea-95f0-8c7cf9f91c01.jpg)   
+![toggle and spinner](https://user-images.githubusercontent.com/43270441/87389601-fd86ba00-c5e1-11ea-865f-28fbd3f17cd4.jpg)   
 Toggle circle is a simple Toggler.  
 Spinner is more complex. It will be faster on mousedown!
 
