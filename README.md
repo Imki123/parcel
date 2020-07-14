@@ -1,7 +1,14 @@
 # parcel
-Simple web app using parcel  
+***Simple web app using parcel***
 
-There are Toggle and Spinner  
-Spinner will be faster on mousedown!
+## There are Toggle and Spinner  
+Toggle is simple Toggler.  
+Spinner is more complex. It will be faster on mousedown!
 
-Thank you :D
+## How to install
+1. clone this repository
+2. npm i
+3. parcel index.html
+4. Test it!
+
+Thank you for reading :D
