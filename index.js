@@ -24,7 +24,7 @@ function clickToggle(){
     }
 }
 
-//spinner
+//Counter
 function addNum() {
   state.number = state.number + 1
   number.value = state.number
