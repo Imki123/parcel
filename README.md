@@ -2,7 +2,7 @@
 ***Simple web app using parcel***
 
 ## Toggle circle and Counter  
-![toggle and counter](https://user-images.githubusercontent.com/43270441/87637280-ef20d580-c77c-11ea-9083-daed0bfbd816.jpg)
+![toggle and counter](https://user-images.githubusercontent.com/43270441/87637280-ef20d580-c77c-11ea-9083-daed0bfbd816.jpg)   
 Toggle circle is a simple Toggler.  
 Counter is more complex. It will be faster on mousedown!
 
